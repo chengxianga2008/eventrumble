@@ -1,0 +1,12 @@
+#top-right_sidebar{
+	position: fixed;
+	top: 40px;
+	right: 0;
+	z-index: 1001;
+	border-width: 0 0 1px 1px;
+	border-style: none none solid solid;
+	border-color: rgba(0, 0, 0, 0.4);
+	background: transparent repeat scroll url("images/calendar_bg.png");
+	width: 500px;
+	height: 500px;
+}

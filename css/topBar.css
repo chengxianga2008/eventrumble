@@ -1,0 +1,35 @@
+#topBarHolder{
+  width:100%;
+}
+
+#topBar{
+  background:transparent repeat scroll linear-gradient(270deg, #FFFFFF 0%, #E8EAED 25%, #C5CBD2 60%, #9CA6B2 100%);
+  min-width: 100%;
+  width:100%;
+  z-index:10;
+  top: 0;
+  left: 0;
+  position: fixed;
+  box-shadow: 0px 1px 5px rgba(0,0,0,0.8);
+}
+
+#pageHead{
+  float: left;
+}
+
+#pageLogo{
+  background-color: white;
+  float:left;
+  margin: 5px 0px 5px 10px;
+  padding: 2px 8px;
+  border-radius: 20px;
+  box-shadow: 1px 1px 4px rgba(0,0,0,0.8);
+  z-index:5;
+}
+
+#pageLogo a{
+  background: white no-repeat scroll url("images/logo.jpg");
+  display:block;
+  height:26px;
+  width:142px;
+}

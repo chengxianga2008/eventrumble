@@ -1,0 +1,108 @@
+/* Button Icons General */
+@font-face {
+  font-family: 'FoundationIconsGeneral';
+  src: url('fonts/foundation-icons-general.eot');
+  src: url('fonts/foundation-icons-general.eot?#iefix') format('embedded-opentype'),
+       url('fonts/foundation-icons-general.woff') format('woff'),
+       url('fonts/foundation-icons-general.ttf') format('truetype'),
+       url('fonts/foundation-icons-general.svg#FoundationIconsGeneral') format('svg');
+
+}
+
+.icon_button_general{
+	font: normal normal normal 36px FoundationIconsGeneral; 
+}
+
+body
+{
+  background:transparent repeat scroll url("images/bg.jpg");
+  font-size:11px;
+  font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+  color:#333;
+  line-height:1.28;
+  text-align:left;
+  direction:ltr;
+  unicode-bidi:embed;
+  overflow-y:scroll;
+  margin:0;
+  padding:0;
+}
+
+a
+{
+  cursor:pointer;
+  color:#3b5998;
+  -moz-outline-style:none;
+  text-decoration:none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+
+form
+{
+	margin: 0;
+	padding: 0;
+}
+
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}	
+
+.input_placeholder
+{
+	color: #777777;
+}
+
+.label
+{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+img{
+	border: 0 none;
+}
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix {
+	display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+	display: block;
+}
+ 
+* html .clearfix {
+	height: 1%;
+}
+
+.display_none {
+	display: none;
+}
+
+.main_td_first{
+	vertical-align: top;
+	width: 100%;
+}
+
+.main_td{
+	font-size: 11px;
+	text-align: left;
+	border-width: 0px;
+}

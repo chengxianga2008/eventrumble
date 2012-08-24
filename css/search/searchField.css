@@ -1,0 +1,148 @@
+#searchFieldHeader
+{
+	padding: 6px 0 16px;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 5px;
+	
+}
+
+#searchFieldHeaderText
+{
+	line-height: 20px;
+	min-height: 20px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+	color: #1C2A47;
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+
+#searchFieldBody
+{
+	border-top: 1px solid #B3B3B3;
+	min-height: 253px;
+	padding: 20px;
+	/*border: medium;*/
+	background-color: #F2F2F2;
+}
+
+#event_search_table
+{
+	border: 0 none;
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+#event_search_table .label
+{
+	text-align: left;
+	width: 145px;
+	padding-top: 8px;
+	color: #666666;
+	font-weight: bold;
+	padding-right: 10px;
+}
+
+#event_search_table .data
+{
+	padding-top: 5px;
+	padding: 3px 0 1px;
+	text-align: left;
+	vertical-align: top;
+	font-size: 11px;
+}
+
+#event_search_table .rightCol
+{
+	padding-top: 5px;
+	padding: 0 0 0 20px;
+	width: 100px;
+	text-align: left;
+	vertical-align: top;
+	font-size: 11px;
+	
+}
+
+#event_location_input
+{
+	margin-left: 0;
+	width: 275px;
+	margin: 0;
+	padding-bottom: 4px;
+	border: 1px solid #BDC7D8;
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+	font-size: 11px;
+	padding: 3px;
+	
+}
+
+#event_name_input
+{
+	margin-left: 0;
+	width: 275px;
+	margin: 0;
+	padding-bottom: 4px;
+	border: 1px solid #BDC7D8;
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+	font-size: 11px;
+	padding: 3px;
+	
+}
+
+
+#event_date_input
+{
+	margin-left: 0;
+	width: 275px;
+	margin: 0;
+	padding-bottom: 4px;
+	border: 1px solid #BDC7D8;
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+	font-size: 11px;
+	padding: 3px;
+	
+}
+
+#event_search_submit
+{
+	font-size: 13px;
+	color: #FFFFFF;
+	background: none repeat scroll 0 0 transparent;
+	border: 0 none;
+	cursor: pointer;
+	display: inline-block;
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    font-weight: bold;
+    margin: 0;
+    outline: medium none;
+    padding: 1px 0 2px;
+    white-space: nowrap;
+}
+
+#event_search_submit_label
+{
+	color: #666666;
+	background: none repeat scroll 0 0 #4F6AA3;
+	border-bottom-color: #29447E;
+	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+	float: left;
+	font-size: 13px;
+	background-color: #5B74A8;
+	border-style: solid;
+	border-width: 1px;
+	display: inline-block;
+	font-weight: bold;
+	line-height: normal !important;
+	padding: 1px 3px;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: top;
+	white-space: nowrap;
+	
+}

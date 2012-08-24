@@ -1,0 +1,12 @@
+.registration_error {
+	font-size: 11px;
+	width: 180px;
+}
+
+.registration_field {
+	width: 200px;
+}
+
+.registration_textarea {
+	height: 80px;
+}

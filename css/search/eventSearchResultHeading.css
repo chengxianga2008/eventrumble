@@ -1,0 +1,48 @@
+.resultListHeading
+{
+	float: left;
+	color: #FFFFFF;
+}
+
+
+#eventSearchResultContainerHeader
+{
+	border: 1px solid #3A589B;
+}
+
+.leftArrow
+{
+	display: block;
+	
+}
+
+.leftArrowHeading
+{
+	position: relative;
+	
+}
+
+.arrowMargin
+{
+	margin: 1px;
+}
+
+
+
+.rightArrow
+{
+	display: block;
+}
+
+.scrollHeading
+{
+	border-left: 1px solid #3A589B;
+	border-right: 1px solid #3A589B;
+	height: 20px;
+}
+
+.scrollHeadingItem
+{
+	float: left;
+}
+

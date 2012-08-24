@@ -1,0 +1,90 @@
+/* bottom right sidebar footer */
+#bottom-right_sidebar_footer
+{
+	border: 0 none;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-width: 0;
+    width: 100%;
+}
+
+#bottom-right_sidebar_hide
+{
+	background-image: url('images/searchPage_sidebar.png');
+    background-position: -54px -64px;
+    background-repeat: no-repeat;
+    display: block;
+    border-left: 1px solid #C9D0DA;
+    box-shadow: 0 1px #FFFFFF inset;
+    height: 24px;
+    width: 26px;
+}
+
+#bottom-right_sidebar_option
+{
+	border-left: 1px solid #C9D0DA;
+    box-shadow: 0 1px #FFFFFF inset;
+    display: block;
+    height: 24px;
+    width: 26px;
+    vertical-align: top;
+}
+
+#bottom-right_sidebar_optionButton
+{
+    background-image: url("images/searchPage_sidebar.png");
+    background-position: -27px -64px;
+    background-repeat: no-repeat;
+    height: 24px;
+    width: 26px;
+    display: inline-block;
+}
+
+#bottom-right_sidebar_optionWrapper
+{
+	position: relative;
+}
+
+
+#bottom-right_sidebar_search{
+	background: none repeat scroll 0 0 #FFFFFF;
+
+}
+
+#bottom-right_sidebar_searchWrapper{
+	
+}
+
+#bottom-right_sidebar_searchInnerWrapper{
+	overflow: hidden;
+	width: 100%;
+	display: block;
+}
+
+#bottom-right_sidebar_searchInput{
+    
+    border: 0 none;
+    outline: 0 none;
+    
+    background-color: #F4F6F9;
+    background-image: url("images/searchPage_sidebar.png");
+    background-position: left -262px;
+    background-repeat: no-repeat;
+    color: #555555;
+    
+    padding-left: 20px;
+    padding-right: 25px;
+    
+    box-shadow: 2px 0 0 -1px #E0E2E9 inset, 0 1px #FFFFFF inset;
+    width: 100%;
+    min-width: 0;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    font-size: 11px;
+    
+    text-align: left;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box; /* Firefox */
+    -webkit-box-sizing:border-box; /* Safari */
+   
+}

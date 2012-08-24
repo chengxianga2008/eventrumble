@@ -1,0 +1,107 @@
+#mainContent
+{
+	width: 95%;
+	margin: 0 auto;
+	position: relative;
+}
+
+#contentContainer
+{
+	border-right: 1px solid #B3B3B3;
+	display: block;
+	margin-left: -1px;
+	width: 100%;
+	/* prototype */
+	/*height: 500px;*/
+	
+}
+
+#leftCol
+{
+	display: block;
+	float: left;
+	padding: 20px 0 0 2px;
+	width: 130px;
+	word-wrap: break-word;
+	background-color: red;
+	/* prototype */
+	/*height: 480px;*/
+}
+
+#secondLeftCol
+{
+	display: block;
+	float: left;
+	padding: 20px 0 0 2px;
+	width: 130px;
+	word-wrap: break-word;
+	/* prototype */
+	border-left: 1px solid #B3B3B3;
+	/*background-color: yellow;*/
+	/*height: 480px;*/
+}
+
+#contentCol
+{
+	border-left: 1px solid #B3B3B3;
+	margin-left: 281px;
+	background-color: #FFFFFF;
+	padding-top: 15px;
+	/*height: 500px;*/
+}
+
+#rightCol
+{
+	padding-right: 20px;
+	margin-top: 0;
+	float: right;
+	width: 244px;
+	word-wrap: break-word;
+	/* prototype */
+	background-color: yellow;
+	/*height: 480px;*/
+}
+
+#firstContentArea
+{
+	padding-right: 0;
+	width: 493px;
+	padding: 0 20px;
+	float: left;
+	margin-right: 0;
+	padding-left: 1px;
+	word-wrap: break-word;
+	/* prototype */
+	/* background-color: green; */
+	/*height: 480px;*/
+}
+
+#searchField
+{
+	/* prototype */
+	/*background-color: green;*/
+	/*height: 240px;*/
+}
+
+#resultField
+{
+	/* prototype */
+	margin-top: 10px;
+	/* prototype */
+	/*background-color: orange;*/
+	/*height: 240px;*/
+}
+
+#secondContentArea
+{
+	padding-right: 0;
+	width: 100px;
+	padding: 0 20px;
+	float: left;
+	margin-right: 0;
+	padding-left: 1px;
+	word-wrap: break-word;
+	/* prototype */
+	background-color: brown;
+	/*height: 480px;*/
+}
